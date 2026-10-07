@@ -144,13 +144,7 @@ SummitSignatureEvents/
         └── frmClientEventsMain.cs
 ```
 
-## Screenshots
 
-Add clean screenshots of the three application workflows to `docs/screenshots/` before publishing the repository. Suggested filenames:
-
-- `event-detail.png`
-- `client-grid.png`
-- `client-events.png`
 
 ## What This Project Demonstrates
 
